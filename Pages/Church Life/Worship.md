@@ -6,6 +6,8 @@ permalink: /Church_Life/Worship
 
 _Worship times and location can be found on our [contact page](/Contact)._
 
+<a href="/Media/PageMedia/Worship.jpg"><img src="/Media/PageMedia/Worship_scaled.jpg" alt="Join us in worship" class="page-image page-image-portrait page-image-right" /></a>
+
 You are warmly invited to our worship service! 
 
 What is worship? Worship is the spiritual honoring of the Triune God through Jesus Christ, whereby the Christian enters the special presence of God to glorify Him by admiring, adoring, blessing, and praising Him with heart wrought faith in reverence, love, and joy.
