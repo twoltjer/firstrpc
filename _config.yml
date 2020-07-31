@@ -32,8 +32,8 @@ nav:
         url: "/Church_Life/Events"
   - title: Sermons
     url: "/Sermons"
-  - title: Blog
-    url: "/Blog"
+  #- title: Blog
+  #  url: "/Blog"
   - title: Contact
     url: "/Contact"
 
