@@ -96,29 +96,27 @@
 {
   border: 1px solid #ccc;
   padding: 1em;
-  width: calc(50% - 3em);
   float: left;
 }
 
 .one-third
 {
-  width: calc(33% - 3em);
-
+  width: calc(33% - 28px);
 }
 
 .two-thirds
 {
-  width: calc(67% - 3em);
+  width: calc(67% - 56px);
 }
 
 .splitpane-left
 {
-  margin-right: 0.5em;
+  margin-right: 15px;
 }
 
-.splitpane-left
+.splitpane-right
 {
-  margin-left: 0.5em;
+  margin-left: 0;
 }
 
 .centered
