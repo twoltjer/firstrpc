@@ -4,7 +4,9 @@ title: Our Beliefs
 permalink: /Our_Church/Our_Beliefs
 ---
 
-Jude exhorts the Church to “earnestly contend for the faith which was once delivered unto the saints” (Jude 1:3). One way we do this is by confessing what the Bible teaches concerning Church government, doctrine, and worship. As members of the universal catholic church (Westminster Confession of Faith 25:2) we confess the ancient Creeds of [Nicea-Constantinople (325, 381 AD)][1] and [Chalcedon (451 AD)][2]. As members of the Reformed Presbyterian Church of North America we confess the Westminster Confession of Faith, Shorter & Larger Catechisms, and the RP Testimony (all are included in the [RPCNA constitution][3]). Thus, we are a confessionally Reformed and Presbyterian Church. Please consult the RPCNA constitution for full details to what we believe. 
+Jude exhorts the Church to “earnestly contend for the faith which was once delivered unto the saints” (Jude 1:3). One way we do this is by confessing what the Bible teaches concerning Church government, doctrine, and worship. As members of the universal catholic church (Westminster Confession of Faith 25:2) we confess the ancient Creeds of [Nicea-Constantinople (325, 381 AD)][https://sacred-texts.com/chr/nicene.htm] and [Chalcedon (451 AD)][http://www.reformation.org/chalcedon_complete_text.html]. As members of the Reformed Presbyterian Church of North America we confess the Westminster Confession of Faith, Shorter & Larger Catechisms, and the RP Testimony (all are included in the [RPCNA constitution][https://rpcna.org/history/constitution.pdf]). Thus, we are a confessionally Reformed and Presbyterian Church. Please consult the RPCNA constitution for full details to what we believe. 
+
+Test change
 
 Below is a brief summary of our faith: 
 
@@ -29,7 +31,3 @@ We confess that we are redeemed by God’s sovereign free grace alone and theref
 We confess that Justification is by grace alone, though faith alone, in Christ alone. Justification is a judicial act whereby a judge declares one righteous or unrighteous (Romans 3;24-25). Man cannot merit righteousness for he is a sinner who is “an unclean thing” whose righteousness is “as filthy rags” (Isaiah 64:6). God by His free grace gifts His Son Jesus Christ to “fulfil all righteousness” (Matthew 3:15), which He imputes to us by faith only without works (Romans 3:26-28; 4:2-8; 2 Corinthians 5:21). This is the gospel and if anyone believes otherwise is under the anathema of God (Galatians 1:8-9). 
 
 To conclude, consider J. I. Packer’s summary of what Reformed Christianity teaches, "The heart of Reformed Christianity is its Trinitarian Christocentricism, expressed manwardly in evangelistic and pastoral proclamation attuned to human need, according to Christ's Great Commission, and Godwardly in the worshipful offering, both corporately and individually, or responsive praise, prayer, thanksgiving, and song."
-
-[1]: https://sacred-texts.com/chr/nicene.htm
-[2]: http://www.reformation.org/chalcedon_complete_text.html
-[3]: https://rpcna.org/history/constitution.pdf
