@@ -123,3 +123,22 @@
 {
   text-align: center;
 }
+
+.page-image
+{
+  padding: 10px; 
+  border: 1px solid #ccc; 
+  max-width: 40%;;
+}
+
+.page-image-left
+{
+  margin-right: 10px;
+  float: left;
+}
+
+.page-image-right
+{
+  margin-left: 10px;
+  float: right;
+}

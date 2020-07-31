@@ -36,6 +36,8 @@ First Reformed Presbyterian Church is a Christ-centered congregation that seeks 
 
 {% endmarkdown %}
 
+{% include worshipDetails.html includeContactInfo=false linkMap=true %}
+
 </div>
 </div>
 
