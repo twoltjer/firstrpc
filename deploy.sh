@@ -7,7 +7,7 @@ popd
 bundle exec jekyll build
 cp -R Media _site
 rm _site/README.md
-cp -R site-conf-files/* _site
+cp -R deploy-conf-files/* _site
 pushd _site
 git add -A
 git commit -m "Deploy script"
