@@ -27,7 +27,15 @@
 	margin-top: auto;
 }
 
+.nomobile {
+  display: none;
+}
+
 @media screen and (min-width: $on-medium) {
+  .nomobile {
+    display: block;
+  }
+
   .site-nav div
   {
     float: left;
@@ -71,6 +79,33 @@
     color: black;
     background-color: #ccc;
   }
+
+  .splitpane 
+  {
+    border: 1px solid #ccc;
+    padding: 1em;
+    float: left;
+  }
+
+  .one-third
+  {
+    width: calc(33% - 28px);
+  }
+
+  .two-thirds
+  {
+    width: calc(67% - 56px);
+  }
+
+  .splitpane-left
+  {
+    margin-right: 15px;
+  }
+
+  .splitpane-right
+  {
+    margin-left: 0;
+  }
 }
 
 .site-header {
@@ -90,33 +125,6 @@
 {
   width: 100%;
   background-image: url("/Media/navbar_bg.jpg");
-}
-
-.splitpane 
-{
-  border: 1px solid #ccc;
-  padding: 1em;
-  float: left;
-}
-
-.one-third
-{
-  width: calc(33% - 28px);
-}
-
-.two-thirds
-{
-  width: calc(67% - 56px);
-}
-
-.splitpane-left
-{
-  margin-right: 15px;
-}
-
-.splitpane-right
-{
-  margin-left: 0;
 }
 
 .centered

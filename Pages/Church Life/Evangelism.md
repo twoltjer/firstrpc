@@ -4,6 +4,8 @@ title: Evangelism
 permalink: /Church_Life/Evangelism
 ---
 
+<a href="/Media/PageMedia/Evangelism.jpg"><img src="/Media/PageMedia/Evangelism_scaled.jpg" alt="Evangelism at Rosa Parks Circle" class="page-image page-image-portrait page-image-right" /></a>
+
 Evangelism is the proclamation of the good news of Jesus Christ to lost sinners. Christ commands us “Go ye into all the world, and preach the gospel to every creature” (Mark 16:15). 
 
 Our congregation is engaged in evangelism in a variety of ways including:
