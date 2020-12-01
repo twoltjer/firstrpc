@@ -1,3 +1,12 @@
+
+{% if include.textOnly %}
+Every Sunday at 10am & 6pm<br>
+{% if include.linkMap %}<a href="/Contact">{% endif %}Puritan Reformed Theological Seminary<br>
+    2965 Leonard St NE, Grand Rapids, MI 49525{% if include.linkMap %}</a>{% endif %}
+    {% if include.includeContactInfo %}
+    <a href="/Our_Church/Our_Leadership">Pastor Craig Sott</a>
+    {% endif %}
+{% else %}
 <table style="border-collapse: collapse">
     <tr>
         <td>Woship Times</td>
@@ -11,7 +20,8 @@
     {% if include.includeContactInfo %}
     <tr>
         <td>Contact</td>
-        <td><a href="/Our_Church/Our_Leadership">Pastor Craig Scott</a></td>
+        <td><a href="/Our_Church/Our_Leadership">Pastor Craig Sott</a></td>
     </tr>
     {% endif %}
 </table>
+{% endif %}

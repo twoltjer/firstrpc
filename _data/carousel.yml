@@ -1,0 +1,17 @@
+slides: 
+  - header: Welcome
+    text: Come and join us in worship
+    image: /Media/Carousel/congregation.jpg
+  - header: Scripture
+    text: The Holy Bible is the ultimate source of truth. More important than how we exist is <i>why</i> we exist.<br><a href="Our_Church/Our_Beliefs">Learn more about our beliefs</a>
+    image: /Media/Carousel/scripture.jpg
+  - header: Worship
+    text: At First RP, we join together in praise to the Lord. <a href="/Church_Life/Worship">Learn more about Biblical worship.</a>
+    image: /Media/Carousel/psalter.jpg
+  - header: Evangelism
+    text: Christ commanded his desciples to go out into the streets and gather participants for a great feast.<br><a href="/">Learn more about our outreach</a>
+    image: /Media/Carousel/evangelism.jpg
+
+
+showControls: true
+holderZIndex: auto

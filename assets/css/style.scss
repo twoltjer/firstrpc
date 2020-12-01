@@ -21,6 +21,7 @@
 {
   max-width: $navbar-width;
   margin: auto;
+  z-index: 100;
 }
 
 .post-content h1, .post-content h2, .post-content h3 {
@@ -31,9 +32,46 @@
   display: none;
 }
 
+.landing-page {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.landing-page-container {
+  flex: 100%;
+  max-width: calc(100% - 2em - 2px);
+  padding: 0.5em;
+  margin: 0.5em;
+  border: 1px solid #ccc;
+}
+
+.landing-page-caption {
+  text-decoration: none;
+  color: black;
+  /*background-image: url("/Media/navbar_bg.jpg");*/
+  width: 100%;
+  font-size: 2em;
+  text-align: center;
+}
+
+.landing-page-container > img {
+  width: 100%;
+}
+
+.landing-page-container:hover
+{
+  text-decoration-thickness: 2px;
+}
+
 @media screen and (min-width: $on-medium) {
   .nomobile {
     display: block;
+  }
+
+  .landing-page-container {
+    flex: 50%;
+    max-width: calc(50% - 2em - 2px);
   }
 
   .site-nav div

@@ -3,11 +3,8 @@ layout: page
 ---
 
 <div class="centered">
-{% markdown %}
 
-![Welcome](/Media/Welcome_Banner.png)
-
-{% endmarkdown %}
+{% include carousel.html height="50" unit="%" duration="2" %}
 
 </div>
 

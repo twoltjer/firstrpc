@@ -43,6 +43,3 @@ minima:
     facebook: First-RP-Church-Grand-Rapids-MI-126544054040330
     sermonaudio: grrpcna
 
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
