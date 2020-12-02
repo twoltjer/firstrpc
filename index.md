@@ -10,6 +10,7 @@ layout: page
 
 <div>
 <div class="splitpane splitpane-left one-third nomobile">
+
 {% markdown %}
 
 ### Most recent Sermons
@@ -23,7 +24,7 @@ layout: page
 
 # First RP Welcomes You!
 
-First Reformed Presbyterian Church is a Christ-centered congregation that seeks to glorify God and establish His kingdom on Earth and prepare for Jesus' return. 
+First Reformed Presbyterian Church is a Christ-centered congregation that seeks to glorify God and establish His kingdom on Earth and prepare for Jesus' return. Yay!
 
 {% endmarkdown %}
 
