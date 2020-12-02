@@ -4,7 +4,7 @@ layout: page
 
 <div class="centered">
 
-{% include carousel.html height="50" unit="%" duration="2" %}
+{% include carousel.html height="50" unit="%" duration="6" %}
 
 </div>
 
@@ -24,7 +24,7 @@ layout: page
 
 # First RP Welcomes You!
 
-First Reformed Presbyterian Church is a Christ-centered congregation that seeks to glorify God and establish His kingdom on Earth and prepare for Jesus' return. Yay!
+First Reformed Presbyterian Church is a Christ-centered congregation that seeks to glorify God and establish His kingdom on Earth and prepare for Jesus' return.
 
 {% endmarkdown %}
 

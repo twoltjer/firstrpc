@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Contact and Worship Service Info
 permalink: /Contact
 ---
 
